@@ -1,0 +1,6 @@
+{
+  "name": "บทเรียนออนไลน์ ฮาร์ดแวร์คอมพิวเตอร์",
+  "description": "บทเรียนออนไลน์ วิชา ระบบปฏิบัติการคอมพิวเตอร์ (21910-2001) เรื่อง ฮาร์ดแวร์ สำหรับนักเรียนระดับประกาศนียบัตรวิชาชีพ (ปวช.)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
